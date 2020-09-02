@@ -3,11 +3,17 @@
 markdown
 headers
 # header1
+`#`
 ## header2
-### header3 
+`##`
+### header3
+`###`
 #### header4
-##### header5 
+`####`
+##### header5
+`#####`
 ###### header6
+`######`
 text style
 code	output
 *italic*	italic
